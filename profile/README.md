@@ -53,9 +53,13 @@ O projeto é desenvolvido por uma equipe talentosa e dedicada de 8 integrantes d
 Quer saber mais sobre o projeto ou trocar ideias?  
 Entre em contato com a equipe Livraê! 💙  
 <div align="left">
+ <a href="https://linktr.ee/livrae.oficial?utm_source=linktree_profile_share&ltsid=0961544c-69b6-4e6a-86ad-9750ff3266e8" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="25" alt="linktree logo"  />
+ </a>
   <a href="https://www.linkedin.com/in/livraê-oficial" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
+ <a href="https://www.instagram.com/livrae.oficial" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+ </a>
 </div>
